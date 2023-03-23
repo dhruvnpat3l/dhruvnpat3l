@@ -1,2 +1,1 @@
-
-!(path/to/image.png)
+![Alt text](path/to/image.jpg)
