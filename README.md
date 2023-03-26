@@ -1,1 +1,1 @@
-![Alt text](https://github.com/dhruvnpat3l/dhruvnpat3l/blob/main/image.jpg)
+![Alt text](./images/Solarpunk.jpg)
