@@ -2,5 +2,5 @@
  
 <div>
 <img src='https://media.giphy.com/media/tO0eGFAvsCUTtWAowm/giphy.gif' align='right' style='width:400px'>  
-<p style='font-weight:bold;font-size:40px;'> My Name is Dhruv <p>   
+<h1>Hello world</h1  
 </div>
