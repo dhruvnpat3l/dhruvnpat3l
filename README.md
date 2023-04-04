@@ -6,3 +6,5 @@
 <li> ✍️Learning Large Language Model 🧑‍💻
 </div>
 
+# Skills <img src='images/animation/Robot.png' width='30'>
+
