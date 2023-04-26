@@ -3,8 +3,7 @@
 <div>
 <img src='https://media.giphy.com/media/tO0eGFAvsCUTtWAowm/giphy.gif' align='right' style='width:400px'>  
 <li> 🤖 Software Developer 🤖
-<li> ✍️Learning Large Language Model 🧑‍💻
 </div>
 
-# Skills <img src='images/animation/Robot.png' width='30'>
+
 
